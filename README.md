@@ -1,4 +1,4 @@
-<img height="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection-screen.jpg" alt="Map Selection - a JavaScript plug-in for Leaflet Map"  />
+<img height="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection.jpg" alt="Map Selection - a JavaScript plug-in for Leaflet Map"  />
 
 
 ## Synopsis
