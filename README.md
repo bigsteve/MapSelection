@@ -1,5 +1,5 @@
-<img width="300" src="https://github.com/bigsteve/MapSelection/tree/master/screenshots/MapSelection-screen.jpg" alt="Leaflet" />
-<img width="300" src="https://github.com/bigsteve/MapSelection/tree/master/screenshots/MapSelection-gjson.jpg" alt="Leaflet" />
+<img width="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection-screen.jpg" alt="Leaflet" />
+<img width="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection-gjson.jpg" alt="Leaflet" />
 
 
 ## Synopsis
