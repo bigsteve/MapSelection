@@ -1,5 +1,4 @@
-<img width="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection-screen.jpg" alt="Leaflet" />
-<img width="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection-gjson.jpg" alt="Leaflet" />
+<img height="300" src="https://github.com/bigsteve/MapSelection/blob/master/screenshots/MapSelection-screen.jpg" alt="Map Selection - a JavaScript plug-in for Leaflet Map"  />
 
 
 ## Synopsis
@@ -70,7 +69,7 @@ After the leaflet "map" object is created, we only need to initialize the select
 
 
 ## Tests
-Open file map_selection.html in you browser and click button "S" to start drawing map selections. Click button "S" again to toggle back to use the other map controls.
+Open file debug/tests/map_selection.html in you browser and click button "S" to start drawing map selections. Click button "S" again to toggle back to use the other map controls.
 Make sure the javascripts linkage is not broken. Please download http://leafletjs.com/download.html content and add it on "dist" folder.
 
 
