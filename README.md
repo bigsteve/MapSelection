@@ -63,10 +63,9 @@ Html example:
 	</script>
     
 
-## API Reference
-        
-        After the leaflet "map" object is created, we only need to initialize the selection object:
-		var MapSelection = new MapSelection(map);
+## API Reference      
+After the leaflet "map" object is created, we only need to initialize the selection object:
+    var MapSelection = new MapSelection(map);
 
 
 
