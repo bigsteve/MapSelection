@@ -64,7 +64,8 @@ Html example:
 
 ## API Reference      
 After the leaflet "map" object is created, we only need to initialize the selection object:
-    var MapSelection = new MapSelection(map);
+
+var MapSelection = new MapSelection(map);
 
 
 
