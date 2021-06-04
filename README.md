@@ -74,11 +74,7 @@ Open file debug/tests/map_selection.html in you browser and click button "S" to 
 Make sure the javascripts linkage is not broken. Please download http://leafletjs.com/download.html content and add it on "dist" folder.
 
 
-
-## Contributors
-For more information contact Stefan Miller: steve@dbnsystems.com
-
 ## License
-copyright Stefan Miller (c) 2015-2018, steve@dbnsystems.com
+copyright Stefan Miller (c) 2015-2021
 Refer to LICENSE.txt file for more information
 
