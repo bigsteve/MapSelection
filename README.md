@@ -3,7 +3,7 @@
 
 ## Synopsis
 
-JavaScript application for free drawing a polygon selection on a map and to creates a collection of the polygon points as geographic coordinates in gjson format. The code was tested and currently working with Leaflet Map distributions. Check the "screenshots" folder for results.
+JavaScript application for free touch-drawing a polygon selection on a map, which creates a collection of the polygon points as geographic coordinates in gjson format. The code was tested and currently working with Leaflet Map distributions. Check the "screenshots" folder for results.
 
 ## Code Example
 
