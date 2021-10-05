@@ -2,7 +2,7 @@
  * 
  * Class: JavaScript class MapSelection
  * Version 1.1
- * copyright Stefan Miller, steve@dbnsystems.com
+ * copyright Stefan Miller
  * ALL RIGHTS RESERVED
  * 
  * Description: application for free drawing a polygon map selection which creates a collection of the polygon points as geographic coordinates in json format
